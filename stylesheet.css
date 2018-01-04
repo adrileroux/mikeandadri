@@ -92,4 +92,7 @@ h3 {
       letter-spacing: 2px;
       padding: 5px;
     }
+    .subtext {
+      font-size: 15px;
+    }
 }
