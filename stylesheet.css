@@ -65,20 +65,21 @@ h3 {
   padding: 5px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
 
     body {
-      font-size: 16px;
+      font-size: 18px;
     }
 
-    /* .content {
-        max-width: 100%;
-    } */
+    .content {
+      max-width: 100%;
+      padding: 20px;
+    }
 
     .button {
       text-align: center;
       border: 2px solid #779fa5;
-      margin: 10px;
+      margin: auto;
     }
 
     .button a {
